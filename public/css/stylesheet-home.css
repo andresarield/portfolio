@@ -212,7 +212,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: ("C:\Users\dabo-\OneDrive\Documentos\Programming\portfolio\public\img\blueprint.PNG");
+  background: ("public\img\blueprint.PNG");
   height: 100vh;
   color: #fff;
   min-height: 500px;
