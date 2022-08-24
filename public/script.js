@@ -36,9 +36,9 @@ $(".menu-btn").click(function () {
 // typing text animation script
 var typed = new Typed(".typing", {
     strings: [
-    "Full Stack Web Developer",
-    "Master Builder",
     "Designer",
+    "Prototyper",
+    "Master Builder",
     "Freelancer"
     ],
     typeSpeed: 100,
@@ -48,9 +48,9 @@ var typed = new Typed(".typing", {
 
 var typed = new Typed(".typing-2", {
     strings: [
-    "Web Developer",
+    "Full Stack Web Developer",
     "Master Builder",
-    "Designer"
+    "Musician"
     ],
     typeSpeed: 100,
     backSpeed: 60,
