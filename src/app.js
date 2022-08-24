@@ -2,8 +2,6 @@
 const express = require('express');
 const path = require("path");
 
-
-
 // Creating express objet
 const app = express();
 
@@ -14,9 +12,7 @@ app.set ("view engine", "ejs");
 // Using resources from public
 app.use(express.static('./public'));
 
-
 const mainRouter = require('./routes/mainRouter');
-
 
 // Home section + route
 app.use('/', mainRouter);
