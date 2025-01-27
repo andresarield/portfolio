@@ -1,27 +1,19 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-<<<<<<< HEAD
-=======
   "description": "",
->>>>>>> aae1b75b401be85dc63c09f3c140e867edd82b20
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-<<<<<<< HEAD
-=======
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andresarield/portfolio.git"
   },
->>>>>>> aae1b75b401be85dc63c09f3c140e867edd82b20
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-<<<<<<< HEAD
-  "description": "",
   "dependencies": {
     "vite": "^6.0.11"
   }
@@ -30,5 +22,4 @@
     "url": "https://github.com/andresarield/portfolio/issues"
   },
   "homepage": "https://github.com/andresarield/portfolio#readme"
->>>>>>> aae1b75b401be85dc63c09f3c140e867edd82b20
 }
